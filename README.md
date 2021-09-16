@@ -1,6 +1,10 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+### Пары 16 сентября 2021
+
+* [Слайды ко второй части](https://docs.google.com/presentation/d/1uRRcs-Emjov2WjDKVIhuX4n14WVOcJDKP6wwYc01fKo/edit?usp=sharing) (условные инструкции в питоне)
+
 ### Пары 15 сентября 2021
 
 * [Слайды](https://docs.google.com/presentation/d/1NfxGU9Rvz65DVvscNe_S7h5BvWrbF4PKOn8B2PlWkgw/edit?usp=sharing)
