@@ -4,6 +4,9 @@
 ### Пары 16 сентября 2021
 
 * [Слайды ко второй части](https://docs.google.com/presentation/d/1uRRcs-Emjov2WjDKVIhuX4n14WVOcJDKP6wwYc01fKo/edit?usp=sharing) (условные инструкции в питоне)
+* Видео:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J6LNqm4Nt-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mjaar99QZHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Домашнее задание 2](https://classroom.github.com/a/e5qUiu5E)
 
