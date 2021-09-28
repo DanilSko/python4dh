@@ -1,12 +1,12 @@
-# Программирование на Python для DH-магистров 2021
+## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-## Пары 29 сентября 2021: списки и кортежи в питоне
+### Пары 29 сентября 2021: списки и кортежи в питоне, хождение по списку/кортежу for-циклом
 
 * [Слайды](https://docs.google.com/presentation/d/1tKL42W_6EurkehWQ72poroTdmjK4dr3FqEHdWxr6aJg/edit?usp=sharing)
 
 
-## Пары 23 сентября 2021: заканчиваем с условиями в питоне, начинаем циклы и iterables
+### Пары 23 сентября 2021: заканчиваем с условиями в питоне, начинаем циклы и iterables
 
 * [Слайды](https://docs.google.com/presentation/d/1CrJk4Vuwho5A5GWIZTXQqAwVUNLEYdFWEhy5JTYDupA/edit?usp=sharing) 
 
