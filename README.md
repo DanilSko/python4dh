@@ -1,7 +1,7 @@
-## Программирование на Python для DH-магистров 2021
+# Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-## Пары 23 сентября 2021: списки и кортежи в питоне
+## Пары 29 сентября 2021: списки и кортежи в питоне
 
 * [Слайды](https://docs.google.com/presentation/d/1tKL42W_6EurkehWQ72poroTdmjK4dr3FqEHdWxr6aJg/edit?usp=sharing)
 
