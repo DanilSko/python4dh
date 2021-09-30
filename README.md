@@ -5,6 +5,10 @@
 
 * [Слайды](https://docs.google.com/presentation/d/1tKL42W_6EurkehWQ72poroTdmjK4dr3FqEHdWxr6aJg/edit?usp=sharing)
 
+* Видео:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I8oK92jT3Xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fno_DqzbLU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Пары 23 сентября 2021: заканчиваем с условиями в питоне, начинаем циклы и iterables
 
