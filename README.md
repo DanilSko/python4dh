@@ -6,6 +6,8 @@
 * Видео: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ROWTTI_owpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6R2hjcrUHTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Пары 29 сентября 2021: списки 
 
 * [Слайды](https://docs.google.com/presentation/d/1tKL42W_6EurkehWQ72poroTdmjK4dr3FqEHdWxr6aJg/edit?usp=sharing)
