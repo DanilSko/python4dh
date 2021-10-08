@@ -3,6 +3,9 @@
 
 ### Пары 7 октября: словари, начало работы с файлами
 * [Слайды](https://docs.google.com/presentation/d/1yq1B0a5dGkFIj6INicuqTxBUENHO4dAnSYQ60U0lHF4/edit?usp=sharing)
+* Видео: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9EzjLevgWNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DyjBVYZi1rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Пары 30 сентября: заканчиваем со списками; итерация по списку и его индексам; кортежи; множества
 * [Слайды](https://docs.google.com/presentation/d/1TSLMZwtGTXEUoxwdXFHDzvN3tt4mKrVoTrBRyqo5KLc/edit?usp=sharing)
