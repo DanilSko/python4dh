@@ -1,6 +1,9 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+### Пары 7 октября: словари, начало работы с файлами
+* [Слайды](https://docs.google.com/presentation/d/1yq1B0a5dGkFIj6INicuqTxBUENHO4dAnSYQ60U0lHF4/edit?usp=sharing)
+
 ### Пары 30 сентября: заканчиваем со списками; итерация по списку и его индексам; кортежи; множества
 * [Слайды](https://docs.google.com/presentation/d/1TSLMZwtGTXEUoxwdXFHDzvN3tt4mKrVoTrBRyqo5KLc/edit?usp=sharing)
 * Видео: 
