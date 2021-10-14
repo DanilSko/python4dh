@@ -1,6 +1,9 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+### Пары 14 октября: файлы, кодировки, формат CSV/TSV
+* [Слайды](https://docs.google.com/presentation/d/1WCuvSKv6tfd4xZmnhYHcBRzI5TAzr_bnuYtceZeI3CM/edit?usp=sharing)
+
 ### Пары 7 октября: словари, начало работы с файлами
 * [ДЗ 4](https://classroom.github.com/a/ECvi95Qu) -- до 17 октября 23:59 мск
 * [Слайды](https://docs.google.com/presentation/d/1yq1B0a5dGkFIj6INicuqTxBUENHO4dAnSYQ60U0lHF4/edit?usp=sharing)
