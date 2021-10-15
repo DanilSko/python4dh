@@ -3,6 +3,9 @@
 
 ### Пары 14 октября: файлы, кодировки, формат CSV/TSV
 * [Слайды](https://docs.google.com/presentation/d/1WCuvSKv6tfd4xZmnhYHcBRzI5TAzr_bnuYtceZeI3CM/edit?usp=sharing)
+* Видео:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmfmV7ZEb_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3a3SoEkZ4KE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Пары 7 октября: словари, начало работы с файлами
 * [ДЗ 4](https://classroom.github.com/a/ECvi95Qu) -- до 17 октября 23:59 мск
