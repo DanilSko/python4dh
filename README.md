@@ -1,10 +1,13 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-### Пары 29 октября 
+### Пары 28/29 октября: строковые методы
+* [ДЗ 6 дедлайн 10 ноября 23:59](https://classroom.github.com/a/nRKF-UIp)
+* [Слайды](https://docs.google.com/presentation/d/1lhgxKLhyAce84eoHkyYtVgcFZ7kU5apQAw7K9-st0rc/edit?usp=sharing) 
+* Видео (29 октября): 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sghp93Y-aQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Пары 28 октября
+* Видео (28 октября, более полная версия): 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9bo42Q55YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZkxCBV2pvts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
