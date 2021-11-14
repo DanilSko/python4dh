@@ -1,7 +1,12 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-### Пары 11 ноября: квиз по строковым методам, разбор ДЗ2, функции, начало регекспов
+### Пары 13 ноября: квиз по строковым методам, разбор ДЗ5, функции
+* [Слайды:](https://docs.google.com/presentation/d/1BoDwq55RCMtepUq8MceLJqDPWgq0P8pUlwWgE-bhUQI/edit?usp=sharing)
+* Видео: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXvUhN0R2MY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Пары 11 ноября: квиз по строковым методам, разбор ДЗ5, функции, начало регекспов
 * [Слайды 1: разбор ДЗ2, функции](https://docs.google.com/presentation/d/1tI0TrRoOcBRQWRoL6Qx6yqCRu0ULLoxBpuvN9wgbYu4/edit?usp=sharing)
 * Видео 1: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYLmFZqRWEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
