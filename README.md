@@ -4,6 +4,11 @@
 ### Пары 18 ноября: регекспы
 * [ДЗ 7 — к 1 декабря](https://classroom.github.com/a/r_baxJ4b)
 * [Слайды](https://docs.google.com/presentation/d/1Jv4plvyEZpin2DBkl-q_EfcjjIzKUfDLOS_1KHYcIlM/edit?usp=sharing)
+* Видео: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ANICkM_LcFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7xsQC0EkZvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Пары 13 ноября: квиз по строковым методам, разбор ДЗ5, функции
 * [Слайды](https://docs.google.com/presentation/d/1BoDwq55RCMtepUq8MceLJqDPWgq0P8pUlwWgE-bhUQI/edit?usp=sharing)
