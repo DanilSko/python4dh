@@ -1,6 +1,11 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+
+### Видеоразбор ДЗ 6 (записано 24 ноября): 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/twrw3urKsE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Пары 20 ноября: регекспы
 * [ДЗ 7 — к 1 декабря](https://classroom.github.com/a/r_baxJ4b)
 * [Слайды](https://docs.google.com/presentation/d/1m5g5Ns9wHWD9hvTyg956LlKMQJF6s4SBL70ydwVxWfw/edit#slide=id.gb49ff97411_0_62)
