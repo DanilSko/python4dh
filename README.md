@@ -1,7 +1,17 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-## Пары 25 ноября: заканчиваем регекспы:
+## Пары 27 ноября: заканчиваем регекспы (Вышка)
+* [Слайды](https://docs.google.com/presentation/d/1kVMEJKhTPFh6Q8JwWZJ3P_yr7tE7UIG_8SFxEdSynZM/edit?usp=sharing) 
+
+* Видео:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TqAveYrpQ4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMpUcJKTeU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ioY0w3EfKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Пары 25 ноября: заканчиваем регекспы (ИТМО):
 * [Слайды](https://docs.google.com/presentation/d/1kVMEJKhTPFh6Q8JwWZJ3P_yr7tE7UIG_8SFxEdSynZM/edit?usp=sharing) 
 
 * Видео: 
