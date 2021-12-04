@@ -1,6 +1,15 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+## Пары 2 декабря: морфология, лемматизация, морфоанализ
+* [Слайды](https://docs.google.com/presentation/d/1wQFgEUvoOl6bSMhSKvdCE0-xFDOJYa6LL1qHJozV78U/edit?usp=sharing)
+* [Тетрадка](https://colab.research.google.com/drive/1LrE_TUhzW9DTzXYF6w9SEqn0tAQ76khi?usp=sharing)
+
+* Видео 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TAapPaLN6Xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Gi06vHSOqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Пары 27 ноября: заканчиваем регекспы (Вышка)
 * [Слайды](https://docs.google.com/presentation/d/1kVMEJKhTPFh6Q8JwWZJ3P_yr7tE7UIG_8SFxEdSynZM/edit?usp=sharing) 
 
