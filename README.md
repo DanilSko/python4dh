@@ -1,7 +1,7 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-## Пары 4 декабря: 
+## Пары 4 декабря: морфология, лемматизация, морфоанализ 
 * [Тетрадка](https://colab.research.google.com/drive/1TyqDfm-w_GeoW4FPAxgO-sIujfkQ8AY_?usp=sharing)
 * [Слайды](https://docs.google.com/presentation/d/1aA6wJ0NEzmOh7XX5GJqx1o0-395MC0gLXFR05wify34/edit?usp=sharing)
 
