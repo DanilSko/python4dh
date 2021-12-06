@@ -1,6 +1,18 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+## Пары 4 декабря: 
+* [Тетрадка](https://colab.research.google.com/drive/1TyqDfm-w_GeoW4FPAxgO-sIujfkQ8AY_?usp=sharing)
+* [Слайды](https://docs.google.com/presentation/d/1aA6wJ0NEzmOh7XX5GJqx1o0-395MC0gLXFR05wify34/edit?usp=sharing)
+
+* Видео 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fELPiLxsADU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YLsSE1rucvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f0n8X0dVIsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Пары 2 декабря: морфология, лемматизация, морфоанализ
 * [Слайды](https://docs.google.com/presentation/d/1wQFgEUvoOl6bSMhSKvdCE0-xFDOJYa6LL1qHJozV78U/edit?usp=sharing)
 * [Тетрадка](https://colab.research.google.com/drive/1LrE_TUhzW9DTzXYF6w9SEqn0tAQ76khi?usp=sharing)
