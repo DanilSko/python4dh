@@ -3,7 +3,7 @@
 
 
 ## Пары 13 января: Pandas 
-
+* [Тетрадка](https://colab.research.google.com/drive/1QwjgkIyYwmS68C3SF33vnVq8llloPw0B?usp=sharing)
 * Видео:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_rFBrFkNd7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
