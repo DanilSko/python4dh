@@ -1,6 +1,14 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+
+## Пары 13 января: Pandas 
+
+* Видео:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_rFBrFkNd7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TR50ubYGhE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Пары 16 декабря: Pandas 
 
 * [Тетрадка](https://colab.research.google.com/drive/1sMBS6EH5oNDFs9ylKceTYpBo9fUSMz0i?usp=sharing)
