@@ -2,6 +2,14 @@
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
 
+## Пары 20 января: Pandas все еще
+
+* Видео:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpTO8JRR_Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HneS6QPQHgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Пары 13 января: Pandas 
 * [Тетрадка](https://colab.research.google.com/drive/1QwjgkIyYwmS68C3SF33vnVq8llloPw0B?usp=sharing)
 * Видео:
