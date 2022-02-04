@@ -7,6 +7,7 @@
 * [Тетрадка](https://colab.research.google.com/drive/1vUjsNTBIfqjdSofQZbTwZFeqPRVJiRW4?usp=sharing)
 * Видео:
 [Часть 1: матплотлиб](https://www.youtube.com/watch?v=ML1pOcTWV38)
+
 [Часть 2:  Matplotlib. Применение в стилометрии. Seaborn](https://www.youtube.com/watch?v=6SK8OVCEozc)
 
 
