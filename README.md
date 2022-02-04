@@ -2,14 +2,23 @@
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
 
+## Пары 3 февраля: Matplotlib. Seaborn. Применение в стилометрии
+
+* [Тетрадка](https://colab.research.google.com/drive/1vUjsNTBIfqjdSofQZbTwZFeqPRVJiRW4?usp=sharing)
+* Видео:
+[Часть 1: матплотлиб](https://www.youtube.com/watch?v=ML1pOcTWV38)
+[Часть 2:  Matplotlib. Применение в стилометрии. Seaborn](https://www.youtube.com/watch?v=6SK8OVCEozc)
+
+
 ## Пары 20 января: Pandas все еще
 
+* [Тетрадка](https://colab.research.google.com/drive/1aU0hL8mTSGzj0tVdGbzMbss2ifKHtVLu?usp=sharing)
 * Видео:
 
 [Ссылка на видеозапись](https://www.youtube.com/watch/gpTO8JRR_Nk)
 
 [Ссылка на видеозапись](https://www.youtube.com/watch/HneS6QPQHgc)
-
+* [ДЗ](https://classroom.github.com/a/1GZrgIVg) до 10 февраля
 
 ## Пары 13 января: Pandas 
 * [Тетрадка](https://colab.research.google.com/drive/1QwjgkIyYwmS68C3SF33vnVq8llloPw0B?usp=sharing)
