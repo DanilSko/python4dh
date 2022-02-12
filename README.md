@@ -3,9 +3,11 @@
 
 ## Пары 12 февраля: 
 * [Тетрадка](https://colab.research.google.com/drive/1hqbDMlfLeD-JIN8pEQ2Aur9zQTJPb97k?usp=sharing)
-* 
+
 * Видео: 
+ 
 [Часть 1: веб-запросы, requests, язык HTML и его родственники](https://youtu.be/C25OjLyUAXs)
+
 [Часть 2: парсим HTML с BeautifulSoup](https://youtu.be/O19P7KmEpf8)
 
 
