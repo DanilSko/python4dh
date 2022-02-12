@@ -1,7 +1,7 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-## Пары 12 февраля: 
+## Пары 12 февраля: начало веб-скрейпинга, HTML и его родственники, парсинг HTML
 * [Тетрадка](https://colab.research.google.com/drive/1hqbDMlfLeD-JIN8pEQ2Aur9zQTJPb97k?usp=sharing)
 
 * Видео: 
