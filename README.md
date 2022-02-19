@@ -1,6 +1,15 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+## Пары 17 февраля: веб скрейпинг, продолжаем парсить HTML, обходим серверные запреты
+* [Тетрадка (прежняя)](https://colab.research.google.com/drive/1hqbDMlfLeD-JIN8pEQ2Aur9zQTJPb97k?usp=sharing)
+
+* Видео: 
+
+[Часть 1: продолжаем парсить HTML](https://youtu.be/_fBDqmx15j0)
+[Часть 2: обходим серверные запреты и прочие лайфхаки вебскрейпинга](https://youtu.be/Y4nxUSAWW70)
+
+
 ## Пары 12 февраля: начало веб-скрейпинга, HTML и его родственники, парсинг HTML
 * [Тетрадка](https://colab.research.google.com/drive/1hqbDMlfLeD-JIN8pEQ2Aur9zQTJPb97k?usp=sharing)
 
