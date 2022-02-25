@@ -1,6 +1,18 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+
+## Пары 24 февраля: XML вообще и в контексте DH, парсинг XML
+
+* [Презентация](https://docs.google.com/presentation/d/1NDvt-pvhwa8ZRn4fzJmz3Ezk27tHN0Dw1PHG-UfzPeI/edit?usp=sharing)
+* [Тетрадка](https://colab.research.google.com/drive/1ZC6UuFyu2Xyan5oKSIhRUVYeAY6tyoD7?usp=sharing)
+
+* Видео
+  * [Часть 1: XML вообще и в контексте DH](https://www.youtube.com/watch?v=nVQXHRPPgUY)
+  * [Часть 2: парсим XML в питоне](https://youtu.be/R3Ze9vCIrvU) 
+
+
+
 ## Пары 17 февраля: веб скрейпинг, продолжаем парсить HTML, обходим серверные запреты
 * [Тетрадка (прежняя)](https://colab.research.google.com/drive/1hqbDMlfLeD-JIN8pEQ2Aur9zQTJPb97k?usp=sharing)
 
