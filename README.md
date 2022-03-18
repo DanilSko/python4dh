@@ -1,7 +1,7 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
-## Пары 3 марта: итоги опроса, начало JSON
+## Пары 10 марта: итоги опроса, начало JSON
 
 * [Презентация](https://docs.google.com/presentation/d/16AhTHn7rN-jVQCFsJoAqtXiAJxp6S1qcJPjlgi596wI/edit?usp=sharing)
 * [Тетрадка](https://colab.research.google.com/drive/1qmyte1LCqPeq4XtVzmKKtTRlnrvjoW-o?usp=sharing)
