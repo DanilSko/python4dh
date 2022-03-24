@@ -14,7 +14,7 @@
 
 * Видео
   * [итоги опроса, начало JSON](https://youtu.be/-5wQ7AIYYaY)
-  * [Продолжение JSON](https://youtu.be/R3Ze9vCIrvU) 
+  * [Продолжение JSON](https://youtu.be/GYuQ_BCp3Z0) 
 
 
 ## Пары 24 февраля: XML вообще и в контексте DH, парсинг XML
