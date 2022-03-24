@@ -1,6 +1,12 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+## Пары 17 марта: JSON в пандас, многострочный JSON, консультация по ДЗ 10
+
+* [Тетрадка: JSON в пандас, многострочный JSON](https://colab.research.google.com/drive/1ipmWdLz5d5mweJOBSy5W0UM4TBSmLHRG?usp=sharing)
+* Видео
+  * [окончание JSON](https://youtu.be/Kqo8Suwz5qE)
+
 ## Пары 10 марта: итоги опроса, начало JSON
 
 * [Презентация](https://docs.google.com/presentation/d/16AhTHn7rN-jVQCFsJoAqtXiAJxp6S1qcJPjlgi596wI/edit?usp=sharing)
