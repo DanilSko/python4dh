@@ -1,6 +1,16 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+## Пары 24 марта: разбор вариантов ДЗ по скрейпингу; начинаем дистрибутивную семантику
+
+* [Слайды](https://docs.google.com/presentation/d/1j37dwIyipnsbDIA3yMhTlYcG0lzrTKa_C9dmsTrSMg4/edit?usp=sharing)
+
+* [Тетрадка word2vec](https://colab.research.google.com/drive/1ukx8rrAqUVGklnKASIf6LzFQJMZqT_ft?usp=sharing)
+
+* Видео
+[разбор вариантов ДЗ по скрейпингу; начинаем говорить о компьютерном представлении значений](https://youtu.be/8fBQdLBW-1k)
+[дистрибутивная семантика](https://youtu.be/Wd1ZCB7BKcY)
+
 ## Пары 17 марта: JSON в пандас, многострочный JSON, консультация по ДЗ 10
 
 * [Тетрадка: JSON в пандас, многострочный JSON](https://colab.research.google.com/drive/1ipmWdLz5d5mweJOBSy5W0UM4TBSmLHRG?usp=sharing)
