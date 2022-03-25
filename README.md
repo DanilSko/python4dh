@@ -8,8 +8,8 @@
 * [Тетрадка word2vec](https://colab.research.google.com/drive/1ukx8rrAqUVGklnKASIf6LzFQJMZqT_ft?usp=sharing)
 
 * Видео
-[разбор вариантов ДЗ по скрейпингу; начинаем говорить о компьютерном представлении значений](https://youtu.be/8fBQdLBW-1k)
-[дистрибутивная семантика](https://youtu.be/Wd1ZCB7BKcY)
+  * [разбор вариантов ДЗ по скрейпингу; начинаем говорить о компьютерном представлении значений](https://youtu.be/8fBQdLBW-1k)
+  * [дистрибутивная семантика](https://youtu.be/Wd1ZCB7BKcY)
 
 ## Пары 17 марта: JSON в пандас, многострочный JSON, консультация по ДЗ 10
 
