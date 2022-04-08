@@ -1,6 +1,15 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+
+## Пары 7 апреля: word2vec, своя модель в word2vec, fasttext
+
+* [Тетрадка word2vec прежняя](https://colab.research.google.com/drive/1ukx8rrAqUVGklnKASIf6LzFQJMZqT_ft?usp=sharing)
+
+* Видео:
+  * [квиз, продолжение word2vec](https://www.youtube.com/watch?v=M1RPA50bZ6k)
+  * [векторная литература, предобработка и обучение своей модели для w2v, fasttext](https://youtu.be/WYEVxr2AT7U)
+
 ## Пары 24 марта: разбор вариантов ДЗ по скрейпингу; начинаем дистрибутивную семантику
 
 * [Слайды](https://docs.google.com/presentation/d/1j37dwIyipnsbDIA3yMhTlYcG0lzrTKa_C9dmsTrSMg4/edit?usp=sharing)
