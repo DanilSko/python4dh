@@ -1,6 +1,13 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+## Пары 14 апреля: доразбор ДЗ 10, контекстуализированные эмбеддинги
+
+* [Тетрадка Elmo](https://colab.research.google.com/drive/1-goqu5tKzDXUnhHCNW0uHnMEkBMJdvVI?usp=sharing)
+
+* Видео:
+  * [Доразбор ДЗ 10](https://youtu.be/2b05yheAmK4)
+  * [Контекстуализированные эмбеддинги](https://youtu.be/fKCoJugeWdE)
 
 ## Пары 7 апреля: word2vec, своя модель в word2vec, fasttext
 
