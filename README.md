@@ -1,6 +1,20 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+
+* [ДЗ 11](https://classroom.github.com/a/ZYhferx1) -- до 5 мая
+
+## Занятие 21 апреля: тематическое моделирование
+
+* [Тетрадка: топик моделинг в python с помощью gensim](https://colab.research.google.com/drive/1Ufz87uIPkLh6njJRNafYcG1B50fREi4_?usp=sharing)
+
+Видео :
+
+* [Зачем нам тематическое моделирование](https://youtu.be/sq5HSlUtHsQ)
+* [Как (примерно) устроено тематическое моделирование](https://youtu.be/aWb8ETiZjvI)
+* [Литературный кейс](https://youtu.be/JpKLjiFhXYw)
+* [Тематическое моделирование в Python (запись пары)](https://youtu.be/dV4M9tEE7K0) 
+
 ## Пары 14 апреля: доразбор ДЗ 10, контекстуализированные эмбеддинги
 
 * [Тетрадка Elmo](https://colab.research.google.com/drive/1-goqu5tKzDXUnhHCNW0uHnMEkBMJdvVI?usp=sharing)
