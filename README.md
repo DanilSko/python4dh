@@ -4,6 +4,15 @@
 
 * [ДЗ 11](https://classroom.github.com/a/ZYhferx1) -- до 5 мая
 
+## Занятие 28 апреля: работа с файловой системой
+
+* [Тетрадка](https://colab.research.google.com/drive/1RUl7HrwDqihw-v_MaPpxo1TpgEnKNq_p?usp=sharing)
+
+Видео: 
+
+* [Работа с файловой системой: как обходить папки, копировать, перемещать и удалять файлы и папки](https://youtu.be/ZKSfEtQ-DJo)
+* [Практика](https://youtu.be/xX_0bJRlRAA)
+
 ## Занятие 21 апреля: тематическое моделирование
 
 * [Тетрадка: топик моделинг в python с помощью gensim](https://colab.research.google.com/drive/1Ufz87uIPkLh6njJRNafYcG1B50fREi4_?usp=sharing)
