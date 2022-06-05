@@ -2,10 +2,20 @@
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
 
-* [ДЗ 11](https://classroom.github.com/a/ZYhferx1) -- до 5 мая
+## Занятие 4 июня: импорт, пакеты и тесты
+
+Видео:
+
+* [импорт, пакеты и тесты, часть 1](https://youtu.be/kSUjQ_Qu298)
+
+* [импорт, пакеты и тесты, часть 2](https://youtu.be/_QOBgf5x5lo)
+
+
+
 
 ## Занятие 28 апреля: работа с файловой системой
 
+* [ДЗ 11](https://classroom.github.com/a/ZYhferx1) -- до 5 мая
 * [Тетрадка](https://colab.research.google.com/drive/1RUl7HrwDqihw-v_MaPpxo1TpgEnKNq_p?usp=sharing)
 
 Видео: 
