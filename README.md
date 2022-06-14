@@ -1,6 +1,15 @@
 ## Программирование на Python для DH-магистров 2021
 Пары проходят [тут](https://us02web.zoom.us/j/9263668073)
 
+## Занятие 9 июня: сети в питоне, networkx; знакомство с IDE VSCode; магия Jupyter
+
+Видео:
+
+* [Сетевой анализ в Python. NetworkX](https://youtu.be/PVQX6q93qzU)
+* [Знакомство с IDE VSCode; магия Jupyter](https://youtu.be/_BqPIjclHPU)
+
+
+
 
 ## Занятие 4 июня: импорт, пакеты и тесты
 
